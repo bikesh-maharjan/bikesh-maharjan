@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi I am Bikesh! I am a Full Stack Developer focusing mainly front end development. I am skilled in React.js, HTML, CSS, Javascript.
+### When I am not coding you can find me with my camera out in the nature taking beautiful photographs. 👋
 
-<!--
-**bikesh-maharjan/bikesh-maharjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... Human's Right First Project
+- 🌱 I’m currently learning ... React Plotly.js
+- 🤔 I’m looking for help with ... React Hooks
+- 💬 Ask me about ...Anything
+- 📫 How to reach me: ... maharjanbikeshster@gmail.com
+- 😄 Pronouns: ... HE/HIM
+- ⚡ Fun fact: ... I know 4 languages.
+
