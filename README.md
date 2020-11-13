@@ -1,4 +1,4 @@
-### Hi I am Bikesh! I am a Full Stack Developer focusing mainly front end development. I am skilled in React.js, HTML, CSS, Javascript.
+### Hi I am Bikesh! I am a Full Stack Developer focusing mainly on front end development. I am skilled in React.js, HTML, CSS, Javascript.
 ### When I am not coding you can find me with my camera out in the nature taking beautiful photographs. 👋
 
 
